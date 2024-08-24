@@ -1,2 +1,2 @@
-# Inventory_Management
-To conduct the ABC analysis and forecast the demand of FMCG Products and suggest Optimum Procurement Stratergy 
+![](https://1drv.ms/i/c/bc3ca7c374e0cce5/EatbWhggz-pMpn-_lZ-jVpQBc3zo1AzRHKWlfj1ZphRUDg?e=12c1QY)
+# TO CONDUCT ABC ANALYSIS AND TO FORECAST THE DEMAND OF FMCG PRODUCTS AND SUGGEST OPTIMUM PROCUREMENT  STRATEGY
